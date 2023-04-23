@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/first_java/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first_java/CheckPallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first_java/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first_java/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first_java/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first_java/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_10Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_11Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_1Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_2Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_3Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_4Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_5Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_6Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_7StarPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_8InvertedStarPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_9StarDiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_maths/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_maths/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_maths/ReverseNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +52,18 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Satish Gupta/Desktop/Java Data Structure and Algorithms&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArmstrongNumber">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_java.ArmstrongNumber" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Patterns" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._11Pattern">
+    <configuration name="_10Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns._10Pattern" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_java.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPallindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_java.CheckPallindrome" />
+    <configuration name="_11Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns._11Pattern" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_java.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_java.FibonacciSeries" />
+    <configuration name="_7StarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns._7StarPyramid" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_java.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_java.LargestNumber" />
+    <configuration name="_8InvertedStarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns._8InvertedStarPyramid" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_java.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_java.SimpleCalculator" />
+    <configuration name="_9StarDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns._9StarDiamondPattern" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_java.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.CheckPallindrome" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.LargestNumber" />
-        <item itemvalue="Application.SimpleCalculator" />
+        <item itemvalue="Application._11Pattern" />
+        <item itemvalue="Application._10Pattern" />
+        <item itemvalue="Application._9StarDiamondPattern" />
+        <item itemvalue="Application._8InvertedStarPyramid" />
+        <item itemvalue="Application._7StarPyramid" />
       </list>
     </recent_temporary>
   </component>
