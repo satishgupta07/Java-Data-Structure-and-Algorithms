@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_10Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_11Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_1Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_2Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_3Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_4Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_5Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_6Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_7StarPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_8InvertedStarPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/_9StarDiamondPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_maths/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_maths/IsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_maths/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/SmallestandSecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/isSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_12Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_13Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_14Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/_15HollowDiamond.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +50,35 @@
       <recent name="Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._11Pattern">
-    <configuration name="_10Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns._10Pattern" />
+  <component name="RunManager" selected="Application.isSorted">
+    <configuration name="LargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.LargestElement" />
+      <module name="Java Data Structure and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestandSecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.SmallestandSecondLargest" />
+      <module name="Java Data Structure and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_13Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns._13Pattern" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns._11Pattern" />
+    <configuration name="_14Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns._14Pattern" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -84,38 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7StarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns._7StarPyramid" />
+    <configuration name="isSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.isSorted" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_8InvertedStarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns._8InvertedStarPyramid" />
-      <module name="Java Data Structure and Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_9StarDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns._9StarDiamondPattern" />
-      <module name="Java Data Structure and Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.*" />
+          <option name="PATTERN" value="Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._11Pattern" />
-        <item itemvalue="Application._10Pattern" />
-        <item itemvalue="Application._9StarDiamondPattern" />
-        <item itemvalue="Application._8InvertedStarPyramid" />
-        <item itemvalue="Application._7StarPyramid" />
+        <item itemvalue="Application.isSorted" />
+        <item itemvalue="Application.SmallestandSecondLargest" />
+        <item itemvalue="Application.LargestElement" />
+        <item itemvalue="Application._14Pattern" />
+        <item itemvalue="Application._13Pattern" />
       </list>
     </recent_temporary>
   </component>
