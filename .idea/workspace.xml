@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/LeftRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/MoveZerosToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Easy/UniqueElement1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Medium/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +46,13 @@
       <recent name="Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
-    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.MaxConsecutiveOnes" />
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Easy.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.MissingNumber" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.InsertionSort" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Easy.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.MoveZerosToEnd" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Easy.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.UniqueElement1" />
-        <item itemvalue="Application.MaxConsecutiveOnes" />
-        <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.MoveZerosToEnd" />
       </list>
     </recent_temporary>
   </component>
