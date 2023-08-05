@@ -5,10 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_Solving/_01_SmallerAndGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_Solving/_02_Elements_which_have_at_least_two_greater_elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_Solving/_03_MINIMUM_PICKS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem_Solving/_04_Pattern_Printing_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/LargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/LargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/LeftRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/LeftRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/MaxConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/MaxConsecutiveOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/MoveZerosToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/MoveZerosToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/SmallestandSecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/SmallestandSecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/UniqueElement1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/UniqueElement1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/isSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/isSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Medium/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Medium/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_10Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_10Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_11Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_11Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_12Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_12Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_13Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_13Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_14Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_14Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_15HollowDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_15HollowDiamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_1Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_1Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_2Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_2Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_3Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_3Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_4Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_4Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_5Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_5Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_6Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_6Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_7StarPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_7StarPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_8InvertedStarPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_8InvertedStarPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/_9StarDiamondPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_9StarDiamondPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_Sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_Sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_Sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/CountDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_basic_maths/CountDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_basic_maths/IsPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic_maths/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_basic_maths/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first_java/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first_java/CheckPallindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/CheckPallindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first_java/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first_java/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first_java/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first_java/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flow_of_program/HCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_flow_of_program/HCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flow_of_program/InputTillX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_flow_of_program/InputTillX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flow_of_program/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_flow_of_program/LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flow_of_program/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_flow_of_program/LeapYear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +88,13 @@
       <recent name="Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InsertionSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
+  <component name="RunManager" selected="Application._04_Pattern_Printing_1">
+    <configuration name="_01_SmallerAndGreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Solving._01_SmallerAndGreater" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Problem_Solving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.InsertionSort" />
+    <configuration name="_02_Elements_which_have_at_least_two_greater_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Solving._02_Elements_which_have_at_least_two_greater_elements" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Problem_Solving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
+    <configuration name="_03_MINIMUM_PICKS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Solving._03_MINIMUM_PICKS" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Problem_Solving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Medium.TwoSum" />
+    <configuration name="_04_Pattern_Printing_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_Solving._04_Pattern_Printing_1" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Medium.*" />
+          <option name="PATTERN" value="Problem_Solving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueElement1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Easy.UniqueElement1" />
+    <configuration name="_14Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05_Patterns._14Pattern" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.Easy.*" />
+          <option name="PATTERN" value="_05_Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.UniqueElement1" />
+        <item itemvalue="Application._04_Pattern_Printing_1" />
+        <item itemvalue="Application._03_MINIMUM_PICKS" />
+        <item itemvalue="Application._02_Elements_which_have_at_least_two_greater_elements" />
+        <item itemvalue="Application._01_SmallerAndGreater" />
+        <item itemvalue="Application._14Pattern" />
       </list>
     </recent_temporary>
   </component>
