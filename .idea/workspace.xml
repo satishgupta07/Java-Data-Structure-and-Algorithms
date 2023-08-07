@@ -5,52 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Problem_Solving/_01_SmallerAndGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_Solving/_02_Elements_which_have_at_least_two_greater_elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_Solving/_03_MINIMUM_PICKS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Problem_Solving/_04_Pattern_Printing_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/AddOneToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/GoodPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/OddEvenSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/RotationGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/TimeToEquality.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/LargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/LargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/LeftRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/LeftRotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/MaxConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/MaxConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/MoveZerosToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/MoveZerosToEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/RemoveDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/SmallestandSecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/SmallestandSecondLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/UniqueElement1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/UniqueElement1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Easy/isSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/isSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Medium/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Arrays/Medium/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_10Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_10Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_11Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_11Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_12Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_12Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_13Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_13Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_14Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_14Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_15HollowDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_15HollowDiamond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_1Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_1Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_2Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_2Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_3Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_3Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_4Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_4Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_5Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_5Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_6Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_6Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_7StarPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_7StarPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_8InvertedStarPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_8InvertedStarPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/_9StarDiamondPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Patterns/_9StarDiamondPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_Sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_Sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_Sorting/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_maths/CountDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_basic_maths/CountDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_maths/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_basic_maths/IsPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_maths/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_basic_maths/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first_java/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first_java/CheckPallindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/CheckPallindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first_java/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/EvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first_java/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first_java/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/LargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first_java/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_first_java/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flow_of_program/HCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_flow_of_program/HCF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flow_of_program/InputTillX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_flow_of_program/InputTillX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flow_of_program/LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_flow_of_program/LCM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flow_of_program/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_flow_of_program/LeapYear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,25 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Satish Gupta/Desktop/Java Data Structure and Algorithms&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Satish Gupta/Desktop/Java Data Structure and Algorithms",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._04_Pattern_Printing_1">
-    <configuration name="_01_SmallerAndGreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Solving._01_SmallerAndGreater" />
+  <component name="RunManager" selected="Application.AddOneToNumber">
+    <configuration name="AddOneToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.AddOneToNumber" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Solving.*" />
+          <option name="PATTERN" value="_06_Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_Elements_which_have_at_least_two_greater_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Solving._02_Elements_which_have_at_least_two_greater_elements" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.FizzBuzz" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Solving.*" />
+          <option name="PATTERN" value="_06_Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_MINIMUM_PICKS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Solving._03_MINIMUM_PICKS" />
+    <configuration name="OddEvenSubsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.OddEvenSubsequences" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Solving.*" />
+          <option name="PATTERN" value="_06_Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_Pattern_Printing_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem_Solving._04_Pattern_Printing_1" />
+    <configuration name="RotationGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.RotationGame" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problem_Solving.*" />
+          <option name="PATTERN" value="_06_Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05_Patterns._14Pattern" />
+    <configuration name="TimeToEquality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.TimeToEquality" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_05_Patterns.*" />
+          <option name="PATTERN" value="_06_Arrays.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._04_Pattern_Printing_1" />
-        <item itemvalue="Application._03_MINIMUM_PICKS" />
-        <item itemvalue="Application._02_Elements_which_have_at_least_two_greater_elements" />
-        <item itemvalue="Application._01_SmallerAndGreater" />
-        <item itemvalue="Application._14Pattern" />
+        <item itemvalue="Application.AddOneToNumber" />
+        <item itemvalue="Application.RotationGame" />
+        <item itemvalue="Application.TimeToEquality" />
+        <item itemvalue="Application.OddEvenSubsequences" />
+        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
