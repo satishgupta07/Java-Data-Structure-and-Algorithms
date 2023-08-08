@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/AddOneToNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/GoodPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/OddEvenSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/RotationGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_Arrays/Easy/TimeToEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/CheckSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/IncAndDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/Pattern_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/Pattern_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/ValidPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,26 +40,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Satish Gupta/Desktop/Java Data Structure and Algorithms",
-    "settings.editor.selected.configurable": "copyright"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Satish Gupta/Desktop/Java Data Structure and Algorithms&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddOneToNumber">
-    <configuration name="AddOneToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.AddOneToNumber" />
+  <component name="RunManager" selected="Application.ValidPalindrome">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.BubbleSort" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_06_Arrays.Easy.*" />
+          <option name="PATTERN" value="_11_Recursion.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.FizzBuzz" />
+    <configuration name="CheckSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.CheckSortedArray" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_06_Arrays.Easy.*" />
+          <option name="PATTERN" value="_11_Recursion.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenSubsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.OddEvenSubsequences" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.LinearSearch" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_06_Arrays.Easy.*" />
+          <option name="PATTERN" value="_11_Recursion.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotationGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.RotationGame" />
+    <configuration name="Pattern_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.Pattern_02" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_06_Arrays.Easy.*" />
+          <option name="PATTERN" value="_11_Recursion.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeToEquality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_Arrays.Easy.TimeToEquality" />
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.ValidPalindrome" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_06_Arrays.Easy.*" />
+          <option name="PATTERN" value="_11_Recursion.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddOneToNumber" />
-        <item itemvalue="Application.RotationGame" />
-        <item itemvalue="Application.TimeToEquality" />
-        <item itemvalue="Application.OddEvenSubsequences" />
-        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.ValidPalindrome" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.CheckSortedArray" />
+        <item itemvalue="Application.Pattern_02" />
       </list>
     </recent_temporary>
   </component>
