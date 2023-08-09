@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/CheckSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/IncAndDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/Pattern_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/Pattern_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_Recursion/Easy/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Hashing/Hashing01/ClosestDuplicatePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Hashing/Hashing01/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_Hashing/Hashing01/SubArrayWith0Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +47,7 @@
       <recent name="Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidPalindrome">
+  <component name="RunManager" selected="Application.SubArrayWith0Sum">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.BubbleSort" />
       <module name="Java Data Structure and Algorithms" />
@@ -67,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.CheckSortedArray" />
+    <configuration name="ClosestDuplicatePair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_Hashing.Hashing01.ClosestDuplicatePair" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_Recursion.Easy.*" />
+          <option name="PATTERN" value="_12_Hashing.Hashing01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.LinearSearch" />
+    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_Hashing.Hashing01.LongestConsecutiveSequence" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_Recursion.Easy.*" />
+          <option name="PATTERN" value="_12_Hashing.Hashing01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_Recursion.Easy.Pattern_02" />
+    <configuration name="SubArrayWith0Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_Hashing.Hashing01.SubArrayWith0Sum" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_Recursion.Easy.*" />
+          <option name="PATTERN" value="_12_Hashing.Hashing01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidPalindrome" />
+        <item itemvalue="Application.SubArrayWith0Sum" />
+        <item itemvalue="Application.LongestConsecutiveSequence" />
+        <item itemvalue="Application.ClosestDuplicatePair" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.CheckSortedArray" />
-        <item itemvalue="Application.Pattern_02" />
+        <item itemvalue="Application.ValidPalindrome" />
       </list>
     </recent_temporary>
   </component>
