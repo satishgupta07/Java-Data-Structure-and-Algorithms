@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/BinarySearchDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/BinarySearchOrderAgnostic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/Ceil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/FirstAndLastPositionInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/SmallestLetterGreaterThanTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/BinarySearchDec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/BinarySearchOrderAgnostic.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +47,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_08_Searching.BinarySearch" />
       <recent name="Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.SmallestLetterGreaterThanTarget">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.BinarySearch" />
       <module name="Java Data Structure and Algorithms" />
@@ -61,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchDec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.BinarySearchDec" />
+    <configuration name="Ceil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.Ceil" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClosestDuplicatePair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_Hashing.Hashing01.ClosestDuplicatePair" />
+    <configuration name="FirstAndLastPositionInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.FirstAndLastPositionInSortedArray" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_12_Hashing.Hashing01.*" />
+          <option name="PATTERN" value="_08_Searching.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_Hashing.Hashing01.LongestConsecutiveSequence" />
+    <configuration name="Floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.Floor" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_12_Hashing.Hashing01.*" />
+          <option name="PATTERN" value="_08_Searching.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubArrayWith0Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_12_Hashing.Hashing01.SubArrayWith0Sum" />
+    <configuration name="SmallestLetterGreaterThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.SmallestLetterGreaterThanTarget" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_12_Hashing.Hashing01.*" />
+          <option name="PATTERN" value="_08_Searching.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestLetterGreaterThanTarget" />
+        <item itemvalue="Application.Ceil" />
+        <item itemvalue="Application.Floor" />
+        <item itemvalue="Application.FirstAndLastPositionInSortedArray" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.BinarySearchDec" />
-        <item itemvalue="Application.SubArrayWith0Sum" />
-        <item itemvalue="Application.LongestConsecutiveSequence" />
-        <item itemvalue="Application.ClosestDuplicatePair" />
       </list>
     </recent_temporary>
   </component>
