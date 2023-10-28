@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d25ccf-d9b0-4eb5-815c-51290cbe7054" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/Search_In_Infinite_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_Searching/BinarySearch/MinimumAbsoluteDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="Patterns" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Search_In_Infinite_Array">
+  <component name="RunManager" selected="Application.MinimumAbsoluteDifference">
     <configuration name="Ceil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.Ceil" />
       <module name="Java Data Structure and Algorithms" />
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstAndLastPositionInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.FirstAndLastPositionInSortedArray" />
+    <configuration name="Floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.Floor" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.Floor" />
+    <configuration name="MinimumAbsoluteDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_Searching.BinarySearch.MinimumAbsoluteDifference" />
       <module name="Java Data Structure and Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumAbsoluteDifference" />
         <item itemvalue="Application.Search_In_Infinite_Array" />
         <item itemvalue="Application.SmallestLetterGreaterThanTarget" />
         <item itemvalue="Application.Ceil" />
         <item itemvalue="Application.Floor" />
-        <item itemvalue="Application.FirstAndLastPositionInSortedArray" />
       </list>
     </recent_temporary>
   </component>
