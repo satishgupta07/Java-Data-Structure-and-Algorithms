@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Striver SDE Sheet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1_Arrays/BestTimetoBuyandSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1_Arrays/MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1_Arrays/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1_Arrays/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1_Arrays/SetMatrixZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1_Arrays/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/FindtheDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/MissingAndRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/RotateImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.BestTimetoBuyandSellStock">
-    <configuration name="BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1_Arrays.BestTimetoBuyandSellStock" />
+}</component>
+  <component name="RunManager" selected="Application.CountInversions">
+    <configuration name="CountInversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.CountInversions" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1_Arrays.*" />
+          <option name="PATTERN" value="Day2_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1_Arrays.MaximumSubarray" />
+    <configuration name="FindtheDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.FindtheDuplicateNumber" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1_Arrays.*" />
+          <option name="PATTERN" value="Day2_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1_Arrays.NextPermutation" />
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.MergeIntervals" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1_Arrays.*" />
+          <option name="PATTERN" value="Day2_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1_Arrays.PascalTriangle" />
+    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.MergeSortedArray" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1_Arrays.*" />
+          <option name="PATTERN" value="Day2_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day1_Arrays.SortColors" />
+    <configuration name="MissingAndRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.MissingAndRepeating" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day1_Arrays.*" />
+          <option name="PATTERN" value="Day2_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BestTimetoBuyandSellStock" />
-        <item itemvalue="Application.SortColors" />
-        <item itemvalue="Application.MaximumSubarray" />
-        <item itemvalue="Application.NextPermutation" />
-        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.CountInversions" />
+        <item itemvalue="Application.MissingAndRepeating" />
+        <item itemvalue="Application.FindtheDuplicateNumber" />
+        <item itemvalue="Application.MergeSortedArray" />
+        <item itemvalue="Application.MergeIntervals" />
       </list>
     </recent_temporary>
   </component>
