@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/FindtheDuplicateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/MissingAndRepeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2_Arrays/RotateImage.java" afterDir="false" />
+    <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="Day 02">
+      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/MajorityElement_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/Search2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/UniquePaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountInversions">
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration name="CountInversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day2_Arrays.CountInversions" />
       <module name="Striver SDE Sheet" />
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindtheDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.FindtheDuplicateNumber" />
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3_Arrays.MajorityElement" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2_Arrays.*" />
+          <option name="PATTERN" value="Day3_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.MergeIntervals" />
+    <configuration name="MajorityElement_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3_Arrays.MajorityElement_II" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2_Arrays.*" />
+          <option name="PATTERN" value="Day3_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.MergeSortedArray" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3_Arrays.MergeSort" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2_Arrays.*" />
+          <option name="PATTERN" value="Day3_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingAndRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.MissingAndRepeating" />
+    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3_Arrays.UniquePaths" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2_Arrays.*" />
+          <option name="PATTERN" value="Day3_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.CountInversions" />
-        <item itemvalue="Application.MissingAndRepeating" />
-        <item itemvalue="Application.FindtheDuplicateNumber" />
-        <item itemvalue="Application.MergeSortedArray" />
-        <item itemvalue="Application.MergeIntervals" />
+        <item itemvalue="Application.UniquePaths" />
+        <item itemvalue="Application.MajorityElement_II" />
+        <item itemvalue="Application.MajorityElement" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +127,18 @@
       <option name="presentableId" value="Default" />
       <updated>1701601156907</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 02">
+      <created>1701709433191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701709433191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 02" />
   </component>
 </project>
