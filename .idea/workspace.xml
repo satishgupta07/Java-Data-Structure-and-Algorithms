@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="Day 02">
-      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/MajorityElement_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/Pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/Search2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3_Arrays/UniquePaths.java" afterDir="false" />
+    <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="Day 03">
+      <change afterPath="$PROJECT_DIR$/src/Day4_Arrays/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4_Arrays/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4_Arrays/LongestSubarrayZeroSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4_Arrays/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4_Arrays/SubarraySumEqualsK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4_Arrays/SubarrayswithXORK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4_Arrays/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4_Arrays/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +45,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="CountInversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day2_Arrays.CountInversions" />
+  <component name="RunManager" selected="Application.LongestSubstringWithoutRepeatingCharacters">
+    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4_Arrays.LongestConsecutiveSequence" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day2_Arrays.*" />
+          <option name="PATTERN" value="Day4_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3_Arrays.MajorityElement" />
+    <configuration name="LongestSubarrayZeroSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4_Arrays.LongestSubarrayZeroSum" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3_Arrays.*" />
+          <option name="PATTERN" value="Day4_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3_Arrays.MajorityElement_II" />
+    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4_Arrays.LongestSubstringWithoutRepeatingCharacters" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3_Arrays.*" />
+          <option name="PATTERN" value="Day4_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3_Arrays.MergeSort" />
+    <configuration name="SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4_Arrays.SubarraySumEqualsK" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3_Arrays.*" />
+          <option name="PATTERN" value="Day4_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day3_Arrays.UniquePaths" />
+    <configuration name="SubarrayswithXORK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4_Arrays.SubarrayswithXORK" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3_Arrays.*" />
+          <option name="PATTERN" value="Day4_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.CountInversions" />
-        <item itemvalue="Application.UniquePaths" />
-        <item itemvalue="Application.MajorityElement_II" />
-        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
+        <item itemvalue="Application.SubarrayswithXORK" />
+        <item itemvalue="Application.SubarraySumEqualsK" />
+        <item itemvalue="Application.LongestSubarrayZeroSum" />
+        <item itemvalue="Application.LongestConsecutiveSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -134,11 +137,19 @@
       <option name="project" value="LOCAL" />
       <updated>1701709433191</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 03">
+      <created>1701795347775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701795347775</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 02" />
+    <MESSAGE value="Day 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 03" />
   </component>
 </project>
