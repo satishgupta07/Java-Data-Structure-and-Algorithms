@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="Day 04 - Arrays | HashMap | PrefixSum">
-      <change afterPath="$PROJECT_DIR$/src/Day5_LinkedList/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5_LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5_LinkedList/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5_LinkedList/MiddleoftheLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5_LinkedList/RemoveNthNodeFromEndofList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5_LinkedList/ReverseLinkedList.java" afterDir="false" />
+    <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="Day 05 - LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/FlatteningaLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/IntersectionofTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/LinkedListCycleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/ReverseLinkedListII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/ReverseNodesink_Group.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,13 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701881646197</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 05 - LinkedList">
+      <created>1702299193482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702299193482</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 02" />
     <MESSAGE value="Day 03" />
     <MESSAGE value="Day 04 - Arrays | HashMap | PrefixSum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 04 - Arrays | HashMap | PrefixSum" />
+    <MESSAGE value="Day 05 - LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 05 - LinkedList" />
   </component>
 </project>
