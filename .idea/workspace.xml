@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="Day 05 - LinkedList">
-      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/FlatteningaLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/IntersectionofTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/LinkedListCycleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/ReverseLinkedListII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day6_LinkedList/ReverseNodesink_Group.java" afterDir="false" />
+    <list default="true" id="d21f54dd-7d8f-455c-bcb8-842eb8587b52" name="Changes" comment="Day 06 - LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/Day7_LinkedListAndArrays/CopyListwithRandomPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7_LinkedListAndArrays/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7_LinkedListAndArrays/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7_LinkedListAndArrays/RotateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day7_LinkedListAndArrays/TrappingRainWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +42,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4_Arrays.LongestSubstringWithoutRepeatingCharacters" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day7_LinkedListAndArrays" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaxConsecutiveOnes">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5_LinkedList.Main" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4_Arrays.*" />
+          <option name="PATTERN" value="Day5_LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5_LinkedList.Main" />
+    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7_LinkedListAndArrays.MaxConsecutiveOnes" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5_LinkedList.*" />
+          <option name="PATTERN" value="Day7_LinkedListAndArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4_Arrays.SubarraySumEqualsK" />
+    <configuration name="RemoveDuplicatesfromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7_LinkedListAndArrays.RemoveDuplicatesfromSortedArray" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4_Arrays.*" />
+          <option name="PATTERN" value="Day7_LinkedListAndArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubarrayswithXORK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4_Arrays.SubarrayswithXORK" />
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7_LinkedListAndArrays.TrappingRainWater" />
       <module name="Striver SDE Sheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day4_Arrays.*" />
+          <option name="PATTERN" value="Day7_LinkedListAndArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxConsecutiveOnes" />
+        <item itemvalue="Application.RemoveDuplicatesfromSortedArray" />
+        <item itemvalue="Application.TrappingRainWater" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MiddleoftheLinkedList" />
-        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
-        <item itemvalue="Application.SubarrayswithXORK" />
-        <item itemvalue="Application.SubarraySumEqualsK" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702299193482</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 06 - LinkedList">
+      <created>1702369408154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702369408154</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +175,7 @@
     <MESSAGE value="Day 03" />
     <MESSAGE value="Day 04 - Arrays | HashMap | PrefixSum" />
     <MESSAGE value="Day 05 - LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 05 - LinkedList" />
+    <MESSAGE value="Day 06 - LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 06 - LinkedList" />
   </component>
 </project>
